@@ -9,6 +9,7 @@ Have Fun. Be Safe.
 | | FaxVIN | Find Vehicle Information & Records Based On Plate Number (US) | 🙂 | 😍 | ❓ | Full reports cost money | https://www.faxvin.com/license-plate-lookup |
 | | Vehicle History | Find Vehicle Information & Records Based On Plate Number (US) |🙂 | 😍 | ❓ | Hit Or Miss Accuracy | https://www.vehiclehistory.com/license-plate-search |
 | | Find By Plate | Find Vehicle Information & Records Based On Plate Number (US) | 🙂 | 😍 | ❓ | | https://findbyplate.com/ |
+| **License Plate** | License Plate Owner API | DPPA-compliant vehicle lookup API built by a licensed private investigator | ❌ | ❌ | Depends on usage | Requires permissible purpose | https://license-plate-owner.com/ |
 |**Image**| Carnet AI | Find Vehicle Make And Model From An Uploaded Image | 😍 | 😍 | ❓ | | https://carnet.ai |
 | | Vehilce Recognition | Find Vehicle Make And Model From An Uploaded Image | 😍 | 😍 | 😍 | | https://carmodel.toolpie.com/
 ### Air ✈️
